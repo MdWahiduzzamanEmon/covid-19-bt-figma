@@ -1,0 +1,32 @@
+body{
+    font-family: 'Red Hat Display', sans-serif;
+    background-color: #FFF9F9;
+}
+p{
+    font-family: 'Gelasio', serif;
+    font-size: 1.5rem;
+    color: #4B4F51;
+}
+.nav-a{
+    font-family: 'Gelasio', serif;
+    font-size: 1.125rem;
+}
+.logo{
+    font-size: 1.1875rem;
+}
+
+.menu-text-color{
+    color: #035755 !important;
+}
+.small-text{
+    color: #FA5652;
+    font-size: 32px;
+}
+.big-text{
+    color: #035755;
+    font-size: 52px;
+}
+.btn-color{
+    background: #FB4C47;
+    color: #ffffff;
+}
