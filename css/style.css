@@ -31,12 +31,12 @@ p{
     color: #ffffff;
 }
 .btn-color-2{
-    background: rgba(250, 86, 82, 0.15);
+    background-color: rgba(250, 86, 82, 0.15);
     color:#FB4C47 ;
     font-size: 14px;
 }
 .bg-img-1{
-    background-image: url(../img/path1470.png), url("../img/path1471.png");
+    background-image: url(/img/path1470.png), url("/img/path1471.png");
     background-repeat: no-repeat;
     background-position: right bottom, center top;
 }
