@@ -47,26 +47,23 @@ p{
     color:#FB4C47 ;
 }
 .bg-img-1{
-    background-image: url(/img/path1470.png), url("/img/path1471.png");
+    background-image: url(img/path1470.png), url("img/path1471.png");
     background-repeat: no-repeat;
     background-position: right bottom, center top;
 }
 .bg-img-2{
-    background-image: url(/img/path1472.png);
+    background-image: url(img/path1472.png);
     background-repeat: no-repeat;
     background-position:-100px;
 }
 
 .bg-img-3{
-    background-image: url(/img/path1470.png), url("/img/path1471.png"), url(/img/path1472.png), url("/img/path1471.png"),url(/img/path1470.png),url(/img/path1470.png);
+    background-image: url(img/path1470.png), url("img/path1471.png"), url(img/path1472.png), url("img/path1471.png"),url(img/path1470.png),url(img/path1470.png);
     background-repeat: no-repeat;
     background-position: right top, center top,-100px,center center,right center,right bottom;
 }
-.bg-img-4{
-    background-image:;
-    background-repeat: no-repeat;
-    background-position:-100px;
-}
+
+
 .card-border-design{
     border: none;
     border-bottom: 4px solid #FB4C47;
